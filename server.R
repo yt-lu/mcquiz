@@ -2,7 +2,6 @@ library(shiny)
 library(shinyalert)
 library(DT)
 
-
 shinyServer(function(input, output, session) {
   
   ############################
